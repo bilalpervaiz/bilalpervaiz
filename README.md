@@ -114,6 +114,6 @@ visualizes wildlife distribution along with cartographically designed maps for t
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizerzakir&show_icons=true&locale=en&layout=compact" alt="khizerzakir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadBilal&show_icons=true&locale=en&layout=compact" alt="MuhammadBilalr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khizerzakir&show_icons=true&locale=en" alt="khizerzakir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal&show_icons=true&locale=en" alt="MuhammadBilal" /></p>
