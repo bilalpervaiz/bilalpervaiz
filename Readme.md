@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Muhammad Bilal </h1>
-<h4 align="center">I am a highly motivated GIS enthusiast with over three years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
+<h4 align="left">I am a highly motivated GIS enthusiast with over three years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
 
 Some of my career highlights include:
 
