@@ -85,6 +85,8 @@ visualizes wildlife distribution along with cartographically designed maps for t
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadBilal&show_icons=true&locale=en&layout=compact" alt="MuhammadBilal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalpervaiz
+&show_icons=true&locale=en&layout=compact" alt="MuhammadBilal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal&show_icons=true&locale=en" alt="MuhammadBilal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalpervaiz
+&show_icons=true&locale=en" alt="MuhammadBilal" /></p>
