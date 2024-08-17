@@ -48,12 +48,7 @@ visualizes wildlife distribution along with cartographically designed maps for t
 <div>
   <h3 align="left">Skills - Languages and Tools</h3>
   <p align="left">
-    <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
+
     <a href="https://git-scm.com/" target="blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
