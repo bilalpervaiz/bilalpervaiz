@@ -15,9 +15,7 @@ Feel free to reach out on LinkedIn or via email at bilalpervaiz445@gmail.com to 
 <div>
   <h3 align="left">Education and Experience</h3>
   <p align="left">
-    - 🎓 I've graduated with dual Masters in <strong> Geoinformatics and Geovisualisation </strong> from
-    
-    
+    - 🎓 I've graduated with dual Masters in <strong> Geoinformatics and Geovisualisation </strong> from  
     <a href="https://www.plus.ac.at/?lang=en" target="blank" rel="noreferrer">
       <strong> PLUS (Paris-Lodron University of Salzburg) </strong>
     </a>
