@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Muhammad Bilal </h1>
-<h4 align="left">I am a highly motivated GIS enthusiast with over three years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
+<h4 align="left">I am a highly motivated GIS enthusiast with over Four years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
 
 Some of my career highlights include:
 
@@ -56,9 +56,6 @@ visualizes wildlife distribution along with cartographically designed maps for t
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
