@@ -1,8 +1,39 @@
 
 <h1 align="center">Hi 👋, I am Muhammad Bilal </h1>
-<h4 align="left">I am a highly motivated GIS enthusiast with over Four years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
+<h4 align="left">I am a highly motivated GIS enthusiast with over Four years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc. </h4>
+<h3 align="left">What I Work On</h3>
 
-E-Portfolio Link: https://bilalpervaiz.github.io/Bilal_Portfolio/index.html
+<ul>
+  <li>
+    <strong>Machine Learning and Deep Learning:</strong>
+    Developing ML and DL models for image segmentation, prediction, classification, and environmental analysis.
+  </li>
+
+  <li>
+    <strong>Earth Observation and Remote Sensing:</strong>
+    Working with satellite imagery, vegetation and water indices, STAC catalogs, cloud-native raster data, and datacube workflows.
+  </li>
+
+  <li>
+    <strong>WebGIS and Dashboards:</strong>
+    Building interactive web maps, dashboards, and geospatial applications using MapLibre, Leaflet, Mapbox, ArcGIS Maps SDK, Streamlit, and Cesium.
+  </li>
+
+  <li>
+    <strong>Spatial Data Science and Analytics:</strong>
+    Performing spatial analysis, mobility analysis, suitability modelling, raster/vector processing, and urban analytics using Python, R, GeoPandas, Rasterio, Xarray, GDAL, and PostGIS.
+  </li>
+
+  <li>
+    <strong>Cloud-native Geospatial Workflows:</strong>
+    Exploring COGs, Zarr, GeoParquet, PMTiles, DuckDB, STAC, and scalable geospatial data pipelines.
+  </li>
+</ul>
+
+<hr>
+
+<h3 align="left">Portfolio and Projects</h3>
+<h4 align="left"> E-Portfolio Link: https://bilalpervaiz.github.io/Bilal_Portfolio/index.html
 
 Feel free to reach out on LinkedIn or via email at bilalpervaiz445@gmail.com to discuss and share common interests.</h4>
 
