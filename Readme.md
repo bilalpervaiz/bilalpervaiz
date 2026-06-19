@@ -30,8 +30,6 @@
   </li>
 </ul>
 
-<hr>
-
 <h3 align="left">Portfolio and Projects</h3>
 <h4 align="left"> E-Portfolio Link: https://bilalpervaiz.github.io/Bilal_Portfolio/index.html
 
@@ -63,7 +61,7 @@ visualizes wildlife distribution along with cartographically designed maps for t
 
 - 👨‍💻 All of my projects are available at (https://bilalpervaiz.github.io/Bilal_Portfolio/index.html)
 
-- 📫 How to reach me **bilalpervaiz445@gmail.com**
+- 📫 How to reach me **bilalpervaiz445@gmail.com** or **message me on Linkdln**
 
 <a href="https://www.linkedin.com/in/bilalperviaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilalperviaz/" height="30" width="40" /></a>
 <a href="https://instagram.com/bilalpervaiz405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalpervaiz405" height="30" width="40" /></a>
