@@ -69,31 +69,68 @@ visualizes wildlife distribution along with cartographically designed maps for t
 
 <div>
   <h3 align="left">Skills - Languages and Tools</h3>
+
   <p align="left">
-    <a href="https://git-scm.com/" target="blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
+    My repositories cover geospatial data science, Earth Observation, cloud-native geospatial workflows, machine learning and deep learning, WebGIS dashboards, and spatial data analysis using Python, R, JavaScript, and modern geospatial tools.
+  </p>
+
+  <h4 align="left">Programming and Data Analysis</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </p>
+
+  <h4 align="left">Geospatial and Earth Observation</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge&logo=qgis&logoColor=white" alt="GIS"/>
+    <img src="https://img.shields.io/badge/Remote%20Sensing-1B5E20?style=for-the-badge&logo=googleearth&logoColor=white" alt="Remote Sensing"/>
+    <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas"/>
+    <img src="https://img.shields.io/badge/Rasterio-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Rasterio"/>
+    <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=osgeo&logoColor=white" alt="GDAL"/>
+    <img src="https://img.shields.io/badge/Xarray-0064A5?style=for-the-badge&logo=python&logoColor=white" alt="Xarray"/>
+    <img src="https://img.shields.io/badge/STAC-4A90E2?style=for-the-badge&logo=databricks&logoColor=white" alt="STAC"/>
+  </p>
+
+  <h4 align="left">Cloud-native Geospatial and Databases</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
+    <img src="https://img.shields.io/badge/GeoParquet-005571?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="GeoParquet"/>
+    <img src="https://img.shields.io/badge/Zarr-1F77B4?style=for-the-badge&logo=python&logoColor=white" alt="Zarr"/>
+    <img src="https://img.shields.io/badge/PMTiles-FF6F00?style=for-the-badge&logo=mapbox&logoColor=white" alt="PMTiles"/>
+  </p>
+
+  <h4 align="left">Machine Learning and Deep Learning</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </p>
+
+  <h4 align="left">WebGIS, Dashboards and Front-end Mapping</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/WebGIS-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="WebGIS"/>
+    <img src="https://img.shields.io/badge/Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Dashboards"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+    <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=mapbox&logoColor=white" alt="MapLibre"/>
+    <img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logo=cesium&logoColor=white" alt="CesiumJS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </p>
+
+  <h4 align="left">Version Control and Design</h4>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
   </p>
 </div>
 
