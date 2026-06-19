@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I am Muhammad Bilal </h1>
 <h4 align="left">I am a highly motivated GIS enthusiast with over Four years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet and contribute to the Sustainable Development Goals. I have extensively applied GIS and remote sensing concepts to various domains, including earth sciences, environmental studies, and urban planning. I hold a double Master of Science degree in Geoinformatics and Cartography from Paris Lodron University of Salzburg and Palacký University Olomouc.
 
-Some of my career highlights include:
-
-★ I was awarded the prestigious Erasmus Mundus Scholarship for the Copernicus Master in Digital Earth, specializing in Geoinformatics and Geovisualization. Through this program, I gained expertise in spatial analysis methods, cloud computing platforms, machine learning algorithms, and 3D modeling using UAVs. I also learned advanced cartographic techniques for visualizing complex information and web mapping libraries such as Leaflet, Mapbox, Maplibre, and the Google Maps API to create interactive web maps. This combination of skills enables me to effectively analyze and communicate geospatial data in innovative and impactful ways. Details about my work in the master's program can be found in my E-portfolio link below.
-
-★ In my professional career, I served as the deputy manager of GIS at PropSure Digital Solutions for approximately three years. In this role, I led a team of GIS professionals across various real estate projects. One of the main projects was the Digitization of Planned Cities in Pakistan, which entailed the development of a geodatabase, its quality assessment, and visualization through a web portal utilizing PostGIS and Geoserver. This job benefited me greatly, enlarging my technical and management skills. The details of each project can be found in my E-portfolio linked below
-
 E-Portfolio Link: https://bilalpervaiz.github.io/Bilal_Portfolio/index.html
 
 Feel free to reach out on LinkedIn or via email at bilalpervaiz445@gmail.com to discuss and share common interests.</h4>
@@ -28,8 +22,7 @@ University Olomouc (UPOL) </strong>
     - 🔭 I conducted thesis research on mapping wildlife species in Etosha National 
 Park using geotagged social media information. This research resulted in a web application that 
 visualizes wildlife distribution along with cartographically designed maps for tourists</strong>.
-    <br/>
-    - 🌱 I’m currently learning <strong>fssa</strong>.
+    
   </p>
 </div>
 
